@@ -1,0 +1,21 @@
+{
+  "shop": [{
+    "category": "Gatos",
+    "available": 4,
+    "icon": "fa-solid_cat.svg",
+    "owner": {
+      "name": "Luisa Hernandez",
+      "location": "Pereira Colombia",
+      "photo": "luisa.png"
+    },
+    "pets": [{
+      "name": "Alex",
+      "breed": "Siamese",
+      "price": 100, 
+      "age": 12, 
+      "length": [3,4],
+      "color": "Negro",
+      "genre": "Macho"
+    }]
+  }]
+}
